@@ -10,7 +10,7 @@ class CasillaTest {
 
 	private Casilla casillas;
 	
-private void escenario() {
+	private void escenario() {
 		casillas = new Casilla(Casilla.MINA);
 	}
 	private void escenario2() {
